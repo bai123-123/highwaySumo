@@ -1,0 +1,7 @@
+<configuration>
+   <input>
+       <net-file value="highway.net.xml"/>
+       <route-files value="highway.rou.xml"/>
+   </input>
+   <step-length value="0.5" />
+</configuration>
